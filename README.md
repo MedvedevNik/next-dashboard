@@ -1,5 +1,11 @@
-## Next.js App Router Course - Starter
+## Next.js Приложения финансового дашборда
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Тренировочный дашборд с парой страниц, где вы можете посмотреть данные полученные через postgres, а также есть возможность смотреть данные транзакций и добавлять новые транзакции.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+### Для запуска приложения сделайте
+
+`pnpm run dev` или `npm run dev`
+
+---
+
+Данное приложение было сделано в тренировочном формате, для того чтобы вспомнить работу с Next.js
